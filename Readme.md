@@ -4,4 +4,4 @@ AI agent learns to play Flappy Bird solely by observing the game screen, underst
 
 Over time, the agent develops strategies to navigate obstacles, showing how even with minimal information, an AI can achieve proficiency through persistent experimentation and adaptation.
 
-Files contain the trained brains of the birds which can imported by the python code above.
+Files contain the trained brains of the birds which can imported by the python code above. Game Window might open behind current windows, click on the frozen window quickly, then it will open over other windows when you rerun it.
